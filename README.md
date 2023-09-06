@@ -1,6 +1,7 @@
 # Decision Tree Model for Mushroom Classification
 
 This project implements a Decision Tree Model for classifying mushrooms as either edible or poisonous based on a given dataset which contains information about various mushroom species, including features such as cap shape, odor, and habitat, to make classification predictions.  
+
 The project is implemented in Python and Jupyter Notebook, using the following modules: 'pandas', 'numpy', and 'matplotlib'.
 
 ## Project Files
@@ -11,7 +12,8 @@ The project is implemented in Python and Jupyter Notebook, using the following m
 
 ## Dataset
 
-The project uses the 'agaricus-lepiota.csv' dataset, which contains descriptions of hypothetical mushroom samples. Each mushroom is labeled as either edible or poisonous. The dataset includes 8124 observations with 21 features and the class label.
+The project uses the 'agaricus-lepiota.csv' dataset, which contains descriptions of hypothetical mushroom samples. Each mushroom is labeled as either edible or poisonous. 
+The dataset includes 8124 observations with 21 features and the class label.
 
 ## Project Structure
 
